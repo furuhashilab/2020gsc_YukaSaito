@@ -18,7 +18,7 @@ Mapboxを使用したオリジナル地図デザインの作成
   
   
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
-![Nezuko Kamado](https://user-images.githubusercontent.com/62432677/105670885-20950d80-5f25-11eb-9380-3a52930cb2c2.png)  
+![Nezuko Kamado](https://user-images.githubusercontent.com/62432677/105671589-4e2e8680-5f26-11eb-9306-8804d080c850.png)    
    
 [煉獄杏寿郎イメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2p8f233odv17nzpgpn4hzz.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![Kyojyuro Rengoku](https://user-images.githubusercontent.com/62432677/105671286-ccd6f400-5f25-11eb-8741-0fa3df7ee12c.png)  
