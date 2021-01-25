@@ -28,7 +28,7 @@ Mapboxを使用したオリジナル地図デザインの作成
 ##  参考文献
 
 > 松澤(2020), TVアニメ『鬼滅の刃』 [公式キャラクターズブック 壱ノ巻](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1721-6), 集英社, 原作 吾峠呼世晴, ©︎吾峠呼世晴/集英社・アニプレックス・ufotable  
-> 木下(2021), TVアニメ『鬼滅の刃』 [公式キャラクターズブック 壱ノ巻](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1723-0), 集英社, 原作 吾峠呼世晴, ©︎吾峠呼世晴/集英社・アニプレックス・ufotable  
+> 木下(2021), TVアニメ『鬼滅の刃』 [公式キャラクターズブック 参ノ巻](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1723-0), 集英社, 原作 吾峠呼世晴, ©︎吾峠呼世晴/集英社・アニプレックス・ufotable  
 
 ##  先行事例
 ##  成果物
