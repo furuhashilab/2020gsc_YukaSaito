@@ -12,8 +12,10 @@
 ######  本研究では    
 ##  Introduction
 ##  Methods
-Mapboxを使用したオリジナル地図デザインの作成  
+Mapboxを使用したオリジナル地図デザインの作成   
 [参考文献](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1721-6)から各キャラクターのイメージカラーである、瞳の色、髪の毛の色、羽織の色、鍔や鞘の色を抽出しMapbox上のデザインに起用  
+  
+  
   
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 [煉獄杏寿郎イメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2p8f233odv17nzpgpn4hzz.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
