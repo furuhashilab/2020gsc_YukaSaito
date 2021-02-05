@@ -33,7 +33,7 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 
 
   
-  
+##  Result
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![Nezuko Kamado](https://user-images.githubusercontent.com/62432677/105676810-61ddeb00-5f2e-11eb-80b7-4fb928c2cb93.png)  
 
@@ -45,9 +45,28 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 [胡蝶しのぶイメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2i5son0cv017p3t034mk0m.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![Shinobu Kocho](https://user-images.githubusercontent.com/62432677/105671367-eed07680-5f25-11eb-921d-b5c7b461705b.png)  
    
+結果として以下の三点がブランドイメージを崩さないweb地図スタイリングにおいて重要なポイントである。 
+ 
+< カラー選び > 
+ 
+・キャラやブランドの特徴的な色をピックアップ
+・カラーパターンを用意
+・配色に注意（地図上に反映させた時の色のぶつかり合いや面積等）
+ 
+<　モチーフや特徴的要素の再現　> 
+ 
+・キャラやブランドの特徴的なモチーフや柄などの要素を挙げる（竹筒・麻の葉模様、薄桃色の髪飾り） 
+・地図上の道の張り巡らせ方や地形に着目しすり合わせる（放射線状に広がる道を模様に見立てる） 
+
+<　イメージを崩さないフォント選び　> 
+ 
+・キャラやブランドの性格やイメージを細かに研究（胡蝶しのぶ：華奢,艶やか, 曲線感, ミステリアス） 
+・適切なフォントを選択 
+・カラーとの相性や全体とのバランスをみて調整 
+
 
   
-##  Result
+
 ##  Discussion 
 ##  Conclusion 
 ##  参考文献
